@@ -1,5 +1,7 @@
 body {
     background-image: url(record.png);
+    background-repeat: initial;
+    margin: 0;
 }
 
 header {
@@ -10,4 +12,5 @@ header {
 
 main {
     background-color: lightgrey;
+    padding: 1em;
 }
