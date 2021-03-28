@@ -1,5 +1,9 @@
-header{
-background-color: indigo;
-color:darkkhaki;
-text-align: center;
+header {
+    background-color: indigo;
+    color: darkkhaki;
+    text-align: center;
+}
+
+main {
+    background-color: lightgrey;
 }
